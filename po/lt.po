@@ -1,0 +1,806 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-24 11:03+0100\n"
+"PO-Revision-Date: 2018-09-01 12:48+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: Moo\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : n"
+"%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);\n"
+"Language: lt\n"
+
+#: modules/customwidgets.py:52
+msgid "Top"
+msgstr "Viršus"
+
+#: modules/customwidgets.py:60
+msgid "Bottom"
+msgstr "Apačia"
+
+#: modules/customwidgets.py:68
+msgid "Left"
+msgstr "Kairė"
+
+#: modules/customwidgets.py:76
+msgid "Right"
+msgstr "Dešinė"
+
+#: modules/customwidgets.py:179
+msgid "hr"
+msgstr "val."
+
+#: modules/customwidgets.py:184
+msgid "min"
+msgstr "min."
+
+#: modules/customwidgets.py:189 modules/curlew.py:814
+msgid "sec"
+msgstr "sek."
+
+#: modules/formats.py:60
+msgid "<i><span color=\"red\">No format selected!</span></i>"
+msgstr "<i><span color=\"red\">Nepasirinktas joks formatas!</span></i>"
+
+#: modules/formats.py:113
+msgid "Edit"
+msgstr "Taisyti"
+
+#: modules/formats.py:121 modules/formats.py:123
+msgid "Choose"
+msgstr "Pasirinkti"
+
+#: modules/logdialog.py:32
+msgid "Conversion Error"
+msgstr "Konvertavimo klaida"
+
+#: modules/logdialog.py:51 modules/errdialog.py:50
+msgid "_Close"
+msgstr "_Užverti"
+
+#: modules/formateditor.py:38
+msgid "Are you sure you want to save settings?"
+msgstr "Ar tikrai norite įrašyti nustatymus?"
+
+#: modules/formateditor.py:110
+msgid "You can't restore a custom format to defaults."
+msgstr "Negalite atstatyti tinkinto formato į numatytąsias reikšmes."
+
+#: modules/formateditor.py:205
+msgid "Are you sure you want to remove this format?"
+msgstr "Ar tikrai norite pašalinti šį formatą?"
+
+#: modules/formateditor.py:244
+msgid "Edition"
+msgstr "Laida"
+
+#: modules/formateditor.py:255
+msgid ""
+"<span foreground=\"red\"><i><b>WARNING:</b> Please change these values with "
+"care!</i></span>"
+msgstr ""
+"<span foreground=\"red\"><i><b>ĮSPĖJIMAS:</b> Keiskite šias reikšmes "
+"apdairiai!</i></span>"
+
+#: modules/formateditor.py:259
+msgid "Audio:"
+msgstr "Garsas:"
+
+#: modules/formateditor.py:267 modules/formateditor.py:286
+msgid "Default"
+msgstr "Numatytasis"
+
+#: modules/formateditor.py:270
+msgid "Audio Bitrates"
+msgstr "Garso pralaidumai"
+
+#: modules/formateditor.py:272
+msgid "Audio Frequencies"
+msgstr "Garso dažniai"
+
+#: modules/formateditor.py:274 modules/curlew.py:662
+msgid "Audio Channels"
+msgstr "Garso kanalai"
+
+#: modules/formateditor.py:276
+msgid "Audio Codecs"
+msgstr "Garso kodekai"
+
+#: modules/formateditor.py:279
+msgid "Video:"
+msgstr "Vaizdas:"
+
+#: modules/formateditor.py:289
+msgid "Video Bitrates"
+msgstr "Vaizdo pralaidumai"
+
+#: modules/formateditor.py:291 modules/curlew.py:702
+msgid "Video FPS"
+msgstr "Vaizdo kadr./s"
+
+#: modules/formateditor.py:293
+msgid "Video Sizes"
+msgstr "Vaizdo dydžiai"
+
+#: modules/formateditor.py:295
+msgid "Video Codecs"
+msgstr "Vaizdo kodekai"
+
+#: modules/formateditor.py:297
+msgid "Aspect Ratios"
+msgstr "Proporcijos"
+
+#: modules/formateditor.py:299
+msgid "Other Options:"
+msgstr "Kiti parametrai:"
+
+#: modules/formateditor.py:301
+msgid "Extra Options"
+msgstr "Papildomi parametrai"
+
+#: modules/formateditor.py:314
+msgid "Save"
+msgstr "Įrašyti"
+
+#: modules/formateditor.py:320 modules/favdialog.py:68 modules/curlew.py:2626
+msgid "Remove"
+msgstr "Šalinti"
+
+#: modules/formateditor.py:328
+msgid "Restore default"
+msgstr "Atkurti numatytuosius"
+
+#: modules/tray.py:33 modules/curlew.py:223 modules/about.py:33
+msgid "Curlew"
+msgstr "Curlew"
+
+#: modules/tray.py:39 modules/tray.py:69
+msgid "Hide"
+msgstr "Slėpti"
+
+#: modules/tray.py:43
+msgid "Stop Conversion"
+msgstr "Stabdyti konvertavimą"
+
+#: modules/tray.py:47
+msgid "Quit application"
+msgstr "Išeiti iš programos"
+
+#: modules/tray.py:71
+msgid "Show"
+msgstr "Rodyti"
+
+#: modules/favdialog.py:29 modules/curlew.py:599
+msgid "Favorite list"
+msgstr "Mėgstamų sąrašas"
+
+#: modules/favdialog.py:40
+msgid "Format"
+msgstr "Formatas"
+
+#: modules/favdialog.py:56
+msgid "Up"
+msgstr "Aukštyn"
+
+#: modules/favdialog.py:62
+msgid "Down"
+msgstr "Žemyn"
+
+#: modules/functions.py:47
+msgid " KB"
+msgstr " KB"
+
+#: modules/functions.py:50
+msgid " MB"
+msgstr " MB"
+
+#: modules/functions.py:53
+msgid " GB"
+msgstr " GB"
+
+#: modules/curlew.py:115
+msgid "<span color=\"red\"><i><b>{}</b> Codec not found!</i></span>"
+msgstr "<span color=\"red\"><i><b>{}</b> Kodekas nerastas!</i></span>"
+
+#: modules/curlew.py:170
+msgid "You can't add more than 10 elements."
+msgstr "Negalite pridėti daugiau nei 10 elementų."
+
+#: modules/curlew.py:177
+msgid "\"{}\" is already exist in favorite list!"
+msgstr "\"{}\" jau yra mėgstamų sąraše!"
+
+#: modules/curlew.py:195
+msgid "No Favorites List."
+msgstr "Nėra mėgstamų sąrašo."
+
+#: modules/curlew.py:231
+msgid "About"
+msgstr "Apie"
+
+#: modules/curlew.py:236
+msgid "Quit"
+msgstr "Išeiti"
+
+#: modules/curlew.py:287
+msgid "Available Codecs"
+msgstr "Prieinami kodekai"
+
+#: modules/curlew.py:315
+msgid "Add Files"
+msgstr "Pridėti failus"
+
+#: modules/curlew.py:320
+msgid "Add Folders"
+msgstr "Pridėti aplankus"
+
+#: modules/curlew.py:330
+msgid "Remove Files"
+msgstr "Šalinti failus"
+
+#: modules/curlew.py:335
+msgid "Clear Files List"
+msgstr "Išvalyti failų sąrašą"
+
+#: modules/curlew.py:341
+msgid "File Information"
+msgstr "Failo informacija"
+
+#: modules/curlew.py:352
+msgid "Advanced Options"
+msgstr "Išplėstiniai parametrai"
+
+#: modules/curlew.py:356 modules/curlew.py:2685
+msgid "Convert"
+msgstr "Konvertuoti"
+
+#: modules/curlew.py:358 modules/curlew.py:2686
+msgid "Start Conversion"
+msgstr "Pradėti konvertavimą"
+
+#: modules/curlew.py:365
+msgid "Select Action"
+msgstr "Pasirinkti veiksmą"
+
+#: modules/curlew.py:387
+msgid "Convert Files"
+msgstr "Konvertuoti failus"
+
+#: modules/curlew.py:388
+msgid "Merge Files"
+msgstr "Sulieti failus"
+
+#: modules/curlew.py:394
+msgid "Stop Process"
+msgstr "Stabdyti procesą"
+
+#: modules/curlew.py:411
+msgid ""
+"<b><span size=\"xx-large\">Welcome to Curlew Multimedia Converter!</span></b>"
+msgstr ""
+"<b><span size=\"xx-large\">Sveiki atvykę į Curlew multimedijos keitiklį!</"
+"span></b>"
+
+#: modules/curlew.py:419
+msgid "<i>Click</i>"
+msgstr "<i>Spustelėkite</i>"
+
+#: modules/curlew.py:421
+msgid "<i>to add files, or</i>"
+msgstr "<i>norėdami pridėti failus arba</i>"
+
+#: modules/curlew.py:423
+msgid "<i>to add files from folders,</i>"
+msgstr "<i>norėdami pridėti failus iš aplankų,</i>"
+
+#: modules/curlew.py:432
+msgid "<i>or you can drag files and drop them to here.</i>"
+msgstr "<i>arba galite vilkti failus čia.</i>"
+
+#: modules/curlew.py:509 modules/curlew.py:976
+msgid "Show Sidebar"
+msgstr "Rodyti šoninę juostą"
+
+#: modules/curlew.py:532
+msgid "File"
+msgstr "Failas"
+
+#: modules/curlew.py:539
+msgid "Size"
+msgstr "Dydis"
+
+#: modules/curlew.py:545
+msgid "Duration"
+msgstr "Trukmė"
+
+#: modules/curlew.py:551
+msgid "Estimated size"
+msgstr "Apskaičiuotas dydis"
+
+#: modules/curlew.py:558
+msgid "Elapsed time"
+msgstr "Praėjęs laikas"
+
+#: modules/curlew.py:565
+msgid "Remaining time"
+msgstr "Likęs laikas"
+
+#: modules/curlew.py:571
+msgid "Progress"
+msgstr "Eiga"
+
+#: modules/curlew.py:583
+msgid "Choose a format"
+msgstr "Pasirinkti formatą"
+
+#: modules/curlew.py:594
+msgid "Add to Favorite"
+msgstr "Pridėti į mėgstamus"
+
+#: modules/curlew.py:615
+msgid "Edit Favorite List"
+msgstr "Taisyti mėgstamų sąrašą"
+
+#: modules/curlew.py:645 modules/curlew.py:838
+msgid "Audio"
+msgstr "Garsas"
+
+#: modules/curlew.py:660
+msgid "Audio Bitrate"
+msgstr "Garso pralaidumas"
+
+#: modules/curlew.py:661
+msgid "Audio Frequency"
+msgstr "Garso dažnis"
+
+#: modules/curlew.py:663
+msgid "Audio Codec"
+msgstr "Garso kodekas"
+
+#: modules/curlew.py:666
+msgid "Volume (%)"
+msgstr "Garsis (%)"
+
+#: modules/curlew.py:672
+msgid "Audio Quality"
+msgstr "Garso kokybė"
+
+#: modules/curlew.py:684 modules/curlew.py:838
+msgid "Video"
+msgstr "Vaizdas"
+
+#: modules/curlew.py:701
+msgid "Video Bitrate"
+msgstr "Vaizdo pralaidumas"
+
+#: modules/curlew.py:703
+msgid "Video Size"
+msgstr "Vaizdo dydis"
+
+#: modules/curlew.py:704
+msgid "Video Codec"
+msgstr "Vaizdo kodekas"
+
+#: modules/curlew.py:705
+msgid "Aspect Ratio"
+msgstr "Proporcijos"
+
+#: modules/curlew.py:711
+msgid "2-Pass"
+msgstr "Per 2 kartus"
+
+#: modules/curlew.py:715
+msgid "Video only"
+msgstr "Tik vaizdas"
+
+#: modules/curlew.py:720
+msgid "Fix bad index"
+msgstr "Pataisyti blogą indeksą"
+
+#: modules/curlew.py:727
+msgid "Video Quality"
+msgstr "Vaizdo kokybė"
+
+#: modules/curlew.py:738
+msgid "Subtitle"
+msgstr "Subtitrai"
+
+#: modules/curlew.py:744
+msgid "Use Subtitle (ffmpeg only)"
+msgstr "Naudoti subtitrus (tik ffmpeg)"
+
+#: modules/curlew.py:760
+msgid "Subtitle: "
+msgstr "Subtitrai: "
+
+#: modules/curlew.py:778
+msgid "Size: "
+msgstr "Dydis: "
+
+#: modules/curlew.py:807
+msgid "Encoding: "
+msgstr "Koduotė: "
+
+#: modules/curlew.py:822
+msgid "Filters"
+msgstr "Filtrai"
+
+#: modules/curlew.py:824
+msgid "Fade In / Fade Out"
+msgstr "Laipsniškas stiprėjimas / išnykimas"
+
+#: modules/curlew.py:829
+msgid "Duration (sec)"
+msgstr "Trukmė (sek.)"
+
+#: modules/curlew.py:833
+msgid "At the beginning"
+msgstr "Pradžioje"
+
+#: modules/curlew.py:833
+msgid "At the end"
+msgstr "Pabaigoje"
+
+#: modules/curlew.py:833 modules/curlew.py:838
+msgid "Both"
+msgstr "Ir ten, ir ten"
+
+#: modules/curlew.py:834
+msgid "Position"
+msgstr "Vieta"
+
+#: modules/curlew.py:839
+msgid "Type"
+msgstr "Tipas"
+
+#: modules/curlew.py:843
+msgid "Crop / Pad"
+msgstr "Apkirpti / Užpildyti"
+
+#: modules/curlew.py:846
+msgid "Crop"
+msgstr "Apkirpti"
+
+#: modules/curlew.py:850
+msgid "Pad"
+msgstr "Užpildyti"
+
+#: modules/curlew.py:855
+msgid "More"
+msgstr "Daugiau"
+
+#: modules/curlew.py:858
+msgid "Split File"
+msgstr "Skaidyti failą"
+
+#: modules/curlew.py:868
+msgid "Begin time: "
+msgstr "Pradžios laikas: "
+
+#: modules/curlew.py:871
+msgid "Duration: "
+msgstr "Trukmė: "
+
+#: modules/curlew.py:872
+msgid "To the end"
+msgstr "Iki pabaigos"
+
+#: modules/curlew.py:878
+msgid "Use Copy Mode"
+msgstr "Naudoti kopijavimo veikseną"
+
+#: modules/curlew.py:879
+msgid "Keep the same codecs as the input file"
+msgstr "Palikti tuos pačius kodekus kaip ir įvesties faile"
+
+#: modules/curlew.py:887
+msgid "Other opts:"
+msgstr "Kiti parametrai:"
+
+#: modules/curlew.py:891
+msgid "Threads:"
+msgstr "Gijos:"
+
+#: modules/curlew.py:904
+msgid "Converter:"
+msgstr "Keitiklis:"
+
+#: modules/curlew.py:910
+msgid "Player:"
+msgstr "Grotuvas:"
+
+#: modules/curlew.py:950
+msgid "Please select a player"
+msgstr "Pasirinkite grotuvą"
+
+#: modules/curlew.py:959
+msgid "Configs"
+msgstr "Konfigūracijos"
+
+#: modules/curlew.py:966
+msgid "Your language will appear after restart Curlew"
+msgstr "Jūsų kalba pasirodys po to, kai paleisite Curlew iš naujo"
+
+#: modules/curlew.py:973
+msgid "Language:"
+msgstr "Kalba:"
+
+#: modules/curlew.py:981
+msgid "Show tray icon"
+msgstr "Rodyti dėklo piktogramą"
+
+#: modules/curlew.py:986
+msgid "Show Statusbar"
+msgstr "Rodyti būsenos juostą"
+
+#: modules/curlew.py:994
+msgid "Shutdown computer after finish"
+msgstr "Užbaigus, išjungti kompiuterį"
+
+#: modules/curlew.py:999
+msgid "Suspend computer after finish"
+msgstr "Užbaigus, pristabdyti kompiuterį"
+
+#: modules/curlew.py:1004
+msgid "Play sound after finish"
+msgstr "Užbaigus, groti garsą"
+
+#: modules/curlew.py:1010
+msgid "Output"
+msgstr "Išvestis"
+
+#: modules/curlew.py:1016
+msgid "Source Path"
+msgstr "Šaltinio kelias"
+
+#: modules/curlew.py:1021
+msgid "Destination:"
+msgstr "Paskirtis:"
+
+#: modules/curlew.py:1024
+msgid "This name is for merged file"
+msgstr "Šis pavadinimas yra skirtas sulietam failui"
+
+#: modules/curlew.py:1025
+msgid "Output Filename:"
+msgstr "Išvesties failo pavadinimas:"
+
+#: modules/curlew.py:1030
+msgid "Overwrite it"
+msgstr "Perrašyti jį"
+
+#: modules/curlew.py:1031
+msgid "Choose another name"
+msgstr "Pasirinkti kitą pavadinimą"
+
+#: modules/curlew.py:1032
+msgid "Skip conversion"
+msgstr "Praleisti konvertavimą"
+
+#: modules/curlew.py:1033
+msgid "File exist:"
+msgstr "Failas jau yra:"
+
+#: modules/curlew.py:1047
+msgid "Delete input file after conversion"
+msgstr "Po konvertavimo, ištrinti įvesties failus"
+
+#: modules/curlew.py:1052
+msgid "Rename input file after conversion"
+msgstr "Po konvertavimo pervadinti įvesties failus"
+
+#: modules/curlew.py:1143
+msgid "Do you want to quit Curlew and abort process?"
+msgstr "Ar norite išeiti iš Curlew ir nutraukti procesą?"
+
+#: modules/curlew.py:1160
+msgid "Add file"
+msgstr "Pridėti failą"
+
+#: modules/curlew.py:1162 modules/curlew.py:1252 modules/curlew.py:1283
+#: modules/curlew.py:2662
+msgid "_OK"
+msgstr "_Gerai"
+
+#: modules/curlew.py:1164 modules/curlew.py:1254 modules/curlew.py:1284
+#: modules/curlew.py:1854 modules/curlew.py:2664 modules/waitdialog.py:45
+msgid "_Cancel"
+msgstr "_Atsisakyti"
+
+#: modules/curlew.py:1173
+msgid "All supported files"
+msgstr "Visi palaikomi failai"
+
+#: modules/curlew.py:1180
+msgid "Video files"
+msgstr "Vaizdo failai"
+
+#: modules/curlew.py:1186
+msgid "Audio files"
+msgstr "Garso failai"
+
+#: modules/curlew.py:1192 modules/curlew.py:1867
+msgid "All files"
+msgstr "Visi failai"
+
+#: modules/curlew.py:1236 modules/curlew.py:1965
+msgid "Ready!"
+msgstr "Pasiruošę!"
+
+#: modules/curlew.py:1250
+msgid "Add folder"
+msgstr "Pridėti aplanką"
+
+#: modules/curlew.py:1281
+msgid "Choose destination"
+msgstr "Pasirinkite paskirtį"
+
+#: modules/curlew.py:1611
+msgid "Destination path is not valid."
+msgstr "Paskirties kelias nėra teisingas."
+
+#: modules/curlew.py:1618
+msgid "Destination path is not accessible."
+msgstr "Paskirties kelias nėra pasiekiamas."
+
+#: modules/curlew.py:1634
+msgid "\"{}\" audio codec not found."
+msgstr "Nerastas \"{}\" garso kodekas."
+
+#: modules/curlew.py:1638
+msgid "\"{}\" video codec not found."
+msgstr "Nerastas \"{}\" vaizdo kodekas."
+
+#: modules/curlew.py:1670 modules/curlew.py:1718 modules/curlew.py:2111
+msgid "Skipped!"
+msgstr "Praleista!"
+
+#: modules/curlew.py:1683
+msgid "Not found!"
+msgstr "Nerasta!"
+
+#: modules/curlew.py:1760
+msgid "Encoder not found (ffmpeg/avconv)."
+msgstr "Koduotuvas nerastas (ffmpeg/avconv)."
+
+#: modules/curlew.py:1789
+msgid "Do you want to stop conversion process?"
+msgstr "Ar norite sustabdyti konvertavimo procesą?"
+
+#: modules/curlew.py:1850
+msgid "Select subtitle"
+msgstr "Pasirinkite subtitrus"
+
+#: modules/curlew.py:1853
+msgid "_Add"
+msgstr "_Pridėti"
+
+#: modules/curlew.py:1858
+msgid "Subtitle files"
+msgstr "Subtitrų failai"
+
+#: modules/curlew.py:1960 modules/curlew.py:2171
+msgid "Wait..."
+msgstr "Palaukite..."
+
+#: modules/curlew.py:2041
+msgid "Done!"
+msgstr "Atlikta!"
+
+#: modules/curlew.py:2059
+msgid "Failed!"
+msgstr "Nepavyko!"
+
+#: modules/curlew.py:2406
+msgid ""
+"<span foreground=\"red\" weight=\"bold\">System will shutdown after {} sec.</"
+"span>"
+msgstr ""
+"<span foreground=\"red\" weight=\"bold\">Sistema išsijungs po {} sek.</span>"
+
+#: modules/curlew.py:2419
+msgid ""
+"<span foreground=\"red\" weight=\"bold\">System will suspend after {} sec.</"
+"span>"
+msgstr ""
+"<span foreground=\"red\" weight=\"bold\">Sistema bus pristabdyta po {} sek.</"
+"span>"
+
+#: modules/curlew.py:2496
+msgid ""
+"<b>Duration:</b> {}\n"
+"<b>Size:</b> {}\n"
+"<b>Extension:</b> {}\n"
+msgstr ""
+"<b>Trukmė:</b> {}\n"
+"<b>Dydis:</b> {}\n"
+"<b>Prievardis:</b> {}\n"
+
+#: modules/curlew.py:2540
+msgid "Please install \"mediainfo\" package."
+msgstr "Prašome įdiegti \"mediainfo\" paketą."
+
+#: modules/curlew.py:2620
+msgid "Play"
+msgstr "Groti"
+
+#: modules/curlew.py:2623
+msgid "_Preview"
+msgstr "_Peržiūra"
+
+#: modules/curlew.py:2629
+msgid "Browse source"
+msgstr "Naršyti šaltinį"
+
+#: modules/curlew.py:2632
+msgid "Browse destination"
+msgstr "Naršyti paskirtį"
+
+#: modules/curlew.py:2660
+msgid "Choose Encoder"
+msgstr "Pasirinkti koduotuvą"
+
+#: modules/curlew.py:2680
+msgid "Merge"
+msgstr "Sulieti"
+
+#: modules/curlew.py:2681
+msgid "Start Merging"
+msgstr "Pradėti suliejimą"
+
+#: modules/curlew.py:2690
+msgid "Make GIF"
+msgstr "Sukurti GIF"
+
+#: modules/curlew.py:2691
+msgid "Make GIF file"
+msgstr "Sukurti GIF failą"
+
+#: modules/curlew.py:2739
+msgid "<i>Merging files, please wait...</i>"
+msgstr "<i>Failai suliejami, palaukite...</i>"
+
+#: modules/curlew.py:2740
+msgid "<i>Percent: 0 %</i>"
+msgstr "<i>Procentų: 0 %</i>"
+
+#: modules/curlew.py:2757
+msgid "<i>Percent: {:.0f} %</i>"
+msgstr "<i>Procentų: {:.0f} %</i>"
+
+#: modules/curlew.py:2769
+msgid "Merging operation completed successfully!"
+msgstr "Suliejimo operacija sėkmingai užbaigta!"
+
+#: modules/curlew.py:2776
+msgid "Merge Error"
+msgstr "Suliejimo klaida"
+
+#: modules/about.py:37
+msgid "About Curlew"
+msgstr "Apie Curlew"
+
+#: modules/about.py:40
+msgid "Easy to use Multimedia Converter for Linux"
+msgstr "Lengvas naudoti multimedijos keitiklis, skirtas Linux"
+
+#: modules/about.py:53
+msgid "translator-credits"
+msgstr "Moo"
+
+#: modules/waitdialog.py:34
+msgid "Adding files..."
+msgstr "Pridedami failai..."
+
+#: modules/waitdialog.py:53
+msgid "<b>File:</b> "
+msgstr "<b>Failas:</b> "

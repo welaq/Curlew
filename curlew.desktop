@@ -4,6 +4,7 @@ Comment[en_US]=Easy to use Multimedia Converter for Linux
 Comment=Easy to use Multimedia Converter for Linux
 Comment[ar]=محول وسائط على لينكس سهل الاستخدام
 Comment[fr]=Un Convertisseur Multimédia simple à utiliser sous Linux
+Comment[lt]=Lengvas naudoti multimedijos keitiklis, skirtas Linux
 Encoding=UTF-8
 Exec=curlew %U
 GenericName[en_US]=Curlew
